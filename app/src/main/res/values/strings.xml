@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">"Note To Self "</string>
+
+    <string name="action_add">Add</string>
+    <string name="title_hint">Title</string>
+    <string name="description_hint">Description</string>
+    <string name="idea_checkbox">Idea</string>
+    <string name="important_checkBox">Important</string>
+    <string name="todo_checkbox">To do</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="ok_button">OK</string>
+
+    <string name="sound_checkbox">On or Off</string>
+    <string name="settings_title">Settings</string>
+    <string name="sound_title">Sound</string>
+    <string name="amims_title">Animation Speed</string>
+    <string name="rb_fast">Fast</string>
+    <string name="rb_slow">Slow</string>
+    <string name="rb_none">None</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="title_text">Title Text</string>
+    <string name="show_note">Show Note</string>
+    <string name="animation_speed">Animation Speed</string>
+    <string name="on_or_off">On or Off</string>
+    <string name="settings">Settings</string>
+
+</resources>
